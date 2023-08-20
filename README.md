@@ -56,7 +56,7 @@ Stay tuned for updates as we roll out more integrations, enhancements, and the f
 
 ## License
 
-This project is licensed under the [License Name] License. For details, see the [LICENSE](link-to-license-file) file.
+This project is licensed under the MIT License. For details, see the [LICENSE](link-to-license-file) file.
 
 ---
 
