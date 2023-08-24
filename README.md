@@ -42,7 +42,7 @@ curl http://localhost:5000/query?q=I want to keep my beer cool at the park
 
 ## Expanding the Possibilities
 
-The PostgreSQL connector is just the beginning. We are committed to expanding the capabilities of the Semantic Search API Service, enabling you to seamlessly integrate semantic search into various platforms. Whether you're building apps, websites, online stores, or any other digital experience, we will be introducing additional features to make the process even easier.
+The PostgreSQL connector is just the beginning. We are committed to expanding the capabilities of the Semantic Search API Service, enabling you to seamlessly integrate semantic search into various platforms. Whether you're building apps, websites, online stores, or any other digital experience, we will be introducing additional features to make the process even easier. For more information visit [semsearch.org](https://www.semsearch.org/).
 
 ## User-Friendly Managed Service Coming Soon!
 
